@@ -21,6 +21,6 @@ public class Product {
     private double retailPrice;
     private double cost;
     private String description;
-    private byte[] pictureURL;
+    private String pictureURL;
     private Category category;
 }
