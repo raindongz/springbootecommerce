@@ -6,13 +6,15 @@ ecommerce website backend with spring boot, spring security, spring data mongoDB
 functionality:
 1.Signup:
  	User can sign up for a new account with an email address as username and complex password (Contains upper- & lower-case characters and at least one number and one symbol).
+	
 2.Authentication:
 	Use spring security with basic authentication. User can log in with existing username and password.
+	
 3.Authorization:
 	employee can update/add/delete the products where normal customer can only get the product information.
+	
 4.shopping cart/create order:
-  user can add products to shopping cart and delete items from shopping cart. After user input the address/payment information and click check out, an order will be created if all shopping cart items is in stock.
-	Shopping cart items will be stored in database, so every user will be able to save their shopping cart items and retrieve them later.
+  user can add products to shopping cart and delete items from shopping cart. After user input the address/payment information and click check out, an order will be created if all shopping cart items is in stock.Shopping cart items will be stored in database, so every user will be able to save their shopping cart items and retrieve them later.
 
 this is Application UML diagram
 <img src="https://user-images.githubusercontent.com/79245472/116330875-4aa7d700-a783-11eb-8cb8-409cb472deb6.png" width="90%"></img> 
