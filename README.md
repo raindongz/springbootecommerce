@@ -4,6 +4,7 @@ spring boot java ecommerce backend
 ecommerce website backend with spring boot, spring security, spring data mongoDB.
 
 functionality:
+
 1.Signup:
  	User can sign up for a new account with an email address as username and complex password (Contains upper- & lower-case characters and at least one number and one symbol).
 	
