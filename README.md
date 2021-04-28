@@ -1,4 +1,4 @@
-# springbootecommerce
+# Springboot E-Commerce Website
 spring boot java ecommerce backend
 
 ecommerce website backend with spring boot, spring security, spring data mongoDB.
